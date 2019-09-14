@@ -1,22 +1,23 @@
 # start
 
+
 <!DOCTYPE html>
 <html>
 <body>
-<h1>JS Documentation</h1>
-Introduction<br>
-What you should already know<br>
-JavaScript and Java<br>
-Hello world<br>
-Variables<br>
-Declaring variables<br>
-Variable scope<br>
-Global variables<br>
-Constants<br>
-Data types<br>
-if...else statement<br>
-while statement<br>
-Function declarations<br>
+<h1>JS Documentation</h1><hr/>
+Introduction<hr/>
+What you should already know<hr/>
+JavaScript and Java<hr/>
+Hello world<hr/>
+Variables</hr>
+Declaring variables<hr/>
+Variable scope<hr/>
+Global variables<hr/>
+Constants<hr/>
+Data types<hr/>
+if...else statement<hr/>
+while statement<hr/>
+Function declarations<hr/>
 Reference<br>
 <p>
 <h><b> Intoduction</b></h>
